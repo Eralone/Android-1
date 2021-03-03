@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Calculator(Equally)_Lesson 1"
